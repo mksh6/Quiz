@@ -10,7 +10,7 @@ let questionCounter = 0;
 let availableQuestions = []; //Empty Array
 
 let questions = [
-  /*{
+  {
     question: "ما هو مكان دفن الامام الحسن العسكري(ع)",
     choice1: "نجف",
     choice2: "سامراء",
@@ -75,7 +75,7 @@ let questions = [
     answer: 3,
   },
   
-   */ {
+   /*{
     question: "which animal gives birth standing up?",
     choice1: "Giraffes",
     choice2: "Lemurs",
@@ -155,7 +155,7 @@ let questions = [
     choice3: "Elephant",
     choice4: "Hippopotamus",
     answer: 2,
-  },
+  },*/
 ];
 const SCORE_POINTS = 100;
 const MAX_QUESTIONS = 8;
